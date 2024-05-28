@@ -1,0 +1,85 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(9, 9, 88);
+}
+
+#left1{
+    margin: 20px;
+    padding: 30px ;
+    text-align: left;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px; 
+    background-color: white;
+    width: 18%;
+    height: 31vh;
+    float: left;
+    line-height: 200%;
+}
+#left2{
+    margin: 20px;
+    padding: 30px ;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px; 
+    background-color: white;
+    width: 18%;
+    height: 31vh;
+    float: left;
+    line-height: 200%;
+}
+#center{
+    margin: 20px;
+    padding: 30px ;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px; 
+    background-color: white;
+    width: 70%;
+    height: 700px;
+    float: right;
+}
+.center2{
+    margin: 20px;
+    padding: 30px ;
+    text-align: left;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px; 
+    background-color: white;
+    width: 70%;
+    float: right;
+}
+.center3{
+    margin: 20px;
+    padding: 30px ;
+    text-align: left;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px; 
+    background-color: white;
+    width: 70%;
+    height: 1000px;
+    float: right;
+}
+#footer{
+    background-color: white;
+    margin: 20px;
+    padding: 30px ;
+    clear: both;
+    border-radius: 20px;
+    text-align: center;
+}
+.buttonegzamin{
+    border-radius: 50px;
+    background-color: yellow;
+    width: 40%;
+    height: 40%;
+}
+.buttonodnosnik{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 15%;
+    text-align: left;
+    margin: 0;
+}
